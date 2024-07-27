@@ -1,0 +1,57 @@
+.father {
+    width: 1000px;
+    height: 600px;
+    border: 2px solid red;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 70px;
+
+}
+
+.box {
+    width: 190px;
+    height: 250px;
+    border: 2px solid  blue;
+    transition: .5s;
+
+}
+.box:hover{
+    box-shadow: 2px 2px 20px red;   
+    transition: .5s;
+
+}
+
+
+.father1 {
+    width: 1000px;
+    height: 600px;
+    border: 2px solid red;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 70px;
+
+}
+
+.box1 {
+    width: 190px;
+    height: 250px;
+    border: 2px solid  blue;
+    transition: .5s;
+
+}
+.box1:hover{
+    box-shadow: 2px 2px 20px red;   
+    transition: .5s;
+
+}
+
+.bmw{
+    width: 100%;
+}
+.text-group{
+    padding: 0px 10px 0px 10px;
+}
